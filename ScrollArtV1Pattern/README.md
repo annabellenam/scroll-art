@@ -17,25 +17,25 @@ I made a dog using "ASCII DRAW STUDIO" to plan out my ascii art drawing.
 #### Process 
 This dog was inspired by my dog yeppi. Here is the actual drawing with my initials:
 
-                                           
-   .__                     .^^             
-  /"  ";                  |   ")           
- .      \                /"  X ?           
- |" X   \              /   XX  |           
- \ XXX.  \+--._.__..-#/   XXXX  )          
- '  %$                    *--_  .          
- \                               |         
- .|    __               ___      \         
- |"   *###x*           #x## \     :        
- \   ( ###x@          x####       |        
- '.            _.._              ):        
-  '.           \=  =/            /         
-   \             ^^             .          
-    +            /\            ?"          
-     " _      *-"  "-*       /"             A.N.
-         "+=.___\__/.__.--=="              
-                                           
-                                           
+
+       .__                     .^^ 
+       /"  ";                  |   ")
+      .      \                /"  X ?
+      |" X   \              /   XX  |                                      
+      \ XXX.  \+-_._.+-..-#/-  XXXX  )    
+      '  %$                    *--_  .      
+      \                               |  
+      .|    __               ___      \                                                                                                        
+      |"   *###x*           #x## \     :    
+      \   ( ###x@          x####       |   
+      '.             _.._             ):    
+       '.           \=  =/            /                                                                                                       
+        \            ^^              .     A.N.                                                                                         
+         +            /\            ?"   
+          "        *-"  "-*       /"  
+              "+=.___\__/.__.--=="                                                                                                      
+                                                                                                                                     
+                                                                 
                                            
 It was 32x34.
 (Citation Points: **1**)
