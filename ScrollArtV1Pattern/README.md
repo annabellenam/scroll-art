@@ -1,6 +1,6 @@
 # scroll-art
 
-## 1. Triangle Hall
+## 1. Dog (Yeppi)
 
 `ScrollArtV1Pattern.java` is a program that prints straight lines moving either left or right. 
 Then a new line, at random intervals, branches off an existing line in the opposite direction. 
@@ -12,26 +12,51 @@ It creates a pattern that looks like a bunch of triangles. I was inspired by wat
 ## 2. Text-moji Art 
 
 My text-moji art is in `ScrollArtV1.java`.
-I was inspired by the bunny textmoji from a Google search of "bunny ascii emoticon" (credit: belongs to the internet it seems like): 
-![](https://ih1.redbubble.net/image.2920171915.3297/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+I made a dog using "ASCII DRAW STUDIO" to plan out my ascii art drawing. 
+![](https://www.asciiart.eu/ascii-draw-studio/app)
+#### Process 
+This dog was inspired by my dog yeppi. Here is the actual drawing with my initials:
 
-It was only 8x3 so I added a rocket detailing to it. 
-(Citation Points: kind of 1, kind of 3, so **2**)
+                                           
+   .__                     .^^             
+  /"  ";                  |   ")           
+ .      \                /"  X ?           
+ |" X   \              /   XX  |           
+ \ XXX.  \+--._.__..-#/   XXXX  )          
+ '  %$                    *--_  .          
+ \                               |         
+ .|    __               ___      \         
+ |"   *###x*           #x## \     :        
+ \   ( ###x@          x####       |        
+ '.            _.._              ):        
+  '.           \=  =/            /         
+   \             ^^             .          
+    +            /\            ?"          
+     " _      *-"  "-*       /"             AN
+         "+=.___\__/.__.--=="              
+                                           
+                                           
+                                           
+It was 32x34.
+(Citation Points: **1**)
 
-I decided to make a 8x6 carrot after I made this bunny rocket. Here is the carrot: 
-```
-     \)/
-    --v 
-   /r )
-  >r./
- / '  
-c_/   if
-```
+I decided to also make a 25x25 flower to make complete the requirements. Again, I used ASCII DRAW STUDIO to plan out and develop my ascii art 
+drawing. 
 
 #### Process 
-This carrot came from my head. I wrote out the carrot on an index card first. On the right is the carrot, and then I made a grid to fit it. 
-![](carrot-drawing.jpeg)
+This flower came from my head. Here is the actual drawing with my initials:
 
+           _.__      __._                                      
+        .-"   "@. _:"    ".    
+       |"      "|/       /     
+       "|       .       "~-.__  
+        ".                    | 
+          7      0          _/" 
+        .|"              .-" 
+       /.       .        "-      AN
+       ~.-     .|\       .|  
+        \      -" ".     /      
+         "-._-./"  "-.__.' 
 Then I input each individual character into its 2D location into Image.java, in the `getImage()` function. 
 
 (Citation Points: 1)
