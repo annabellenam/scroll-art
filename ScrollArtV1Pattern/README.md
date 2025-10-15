@@ -32,7 +32,7 @@ This dog was inspired by my dog yeppi. Here is the actual drawing with my initia
   '.           \=  =/            /         
    \             ^^             .          
     +            /\            ?"          
-     " _      *-"  "-*       /"             AN
+     " _      *-"  "-*       /"             A.N.
          "+=.___\__/.__.--=="              
                                            
                                            
@@ -53,7 +53,7 @@ This flower came from my head. Here is the actual drawing with my initials:
         ".                    | 
           7      0          _/" 
         .|"              .-" 
-       /.       .        "-      AN
+       /.       .        "-      A.N.
        ~.-     .|\       .|  
         \      -" ".     /      
          "-._-./"  "-.__.' 
