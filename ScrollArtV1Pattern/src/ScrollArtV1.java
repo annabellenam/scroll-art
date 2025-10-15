@@ -14,13 +14,13 @@ public class ScrollArtV1 {
 
         while (true) {
             for (int x = 0; x < WIDTH - YEPPI_WIDTH; x++) {
-                if (rand.nextDouble() < 0.0008) {
+                if (rand.nextDouble() < 0.0001) {
                     char[][] img;
-                     if (rand.nextDouble() < 0.5)
+                    // if (rand.nextDouble() < 0.5)
                          img = getYeppi();
-                     else {
-                    img = getFlower();
-                     }
+                    // else {
+                   // img = getFlower();
+                   //  }
                     for (int iy = 0; iy < YEPPI_HEIGHT; iy++) {
                         for (int ix = 0; ix < YEPPI_HEIGHT; ix++) {
                             nextRows[iy][x + ix] = img[iy][ix];
