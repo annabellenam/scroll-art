@@ -30,7 +30,7 @@ This dog was inspired by my dog yeppi. Here is the actual drawing with my initia
       \   ( ###x@          x####       |   
       '.             _.._             ):    
        '.           \=  =/            /                                                                                                       
-        \            ^^              .     A.N.                                                                                         
+        \             ^^              .     A.N.                                                                                         
          +            /\            ?"   
           "        *-"  "-*       /"  
               "+=.___\__/.__.--=="                                                                                                      
